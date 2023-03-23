@@ -1,0 +1,44 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  
+}
+
+body{
+  font-family: sans-serif;
+  font-size:110%;
+  background-color: #FCF7F8;
+}
+
+header {
+  text-align: center;
+  background-color: #343330;
+  color: white;
+  padding: 10px 0 10px ;
+}
+
+
+
+.nav-menu{
+    background-color:goldenrod;
+    width: 10%;
+    overflow: auto;
+    background-color:
+}
+
+ul {
+  list-style: none;
+  margin-left: 0%;
+}
+
+
+
+
+
+footer {
+  background-color: #343330;
+  text-align: center;
+} 
+
+
+
